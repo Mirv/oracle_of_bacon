@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 ruby '2.3.0'
-
+gem 'rails'
 gem 'nokogiri'
 gem 'byebug'
 gem 'activemodel', '4.2.1'
